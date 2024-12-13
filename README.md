@@ -60,6 +60,7 @@ The analysis identified the top 10 popular dishes based on order frequency. Thes
 ### 4.3 Demographic Analysis
 The average total orders by age group were analyzed, revealing trends in ordering behavior across different age demographics.
 
+![Average Total Orders by Age Group](Average Total Orders by Age Group.png)
 
 ## 5. Key Insights
 
